@@ -1,4 +1,4 @@
-# :📘 Guía práctica de Git para proyectos de IA con Python y TensorFlow
+# 📘 Guía práctica de Git para proyectos de IA con Python y TensorFlow
 Bienvenido 👋 Este repositorio es una **guía práctica** para aprender y aplicar **Git** en proyectos de
 **Inteligencia Artificial (IA) con Python/TensorFlow**.
 Aquí encontrarás **instrucciones, ejemplos, trucos y buenas prácticas** que podrás aplicar directamente en tus
