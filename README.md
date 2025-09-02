@@ -169,7 +169,7 @@ git checkout -b experiment/dropout-0.5
 ✔️ Colabora con **Pull Requests** para revisar cambios antes de mezclar.  
 
 ---
-##📚 Recursos recomendados
+## 📚 Recursos recomendados
 - [Cheat Sheet de Git (GitHub, en español)](https://training.github.com/downloads/es_ES/github-git-cheat-sheet.pdf)
 - [Visualización interactiva de ramas](https://learngitbranching.js.org/?locale=es_ES)
 - [Guía oficial de Git LFS](https://git-lfs.com/)
