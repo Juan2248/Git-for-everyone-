@@ -151,8 +151,9 @@ git add .gitattributes
 git commit -m "Configurar Git LFS para modelos"
 ```
 ---
-## 📝 Buenas prácticas en proyectos IA con Git
-✔️ **Versiona solo código y configs** (no datasets completos ni modelos pesados).
+## 📝 Buenas prácticas en proyectos IA con Git  
+✔️ **Versiona solo código y configs** (no datasets completos ni modelos pesados).  
+
 ✔️ Usa **ramas** para cada experimento:
 ```bash
 git checkout -b experiment/dropout-0.5
