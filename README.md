@@ -157,11 +157,11 @@ git commit -m "Configurar Git LFS para modelos"
 ```bash
 git checkout -b experiment/dropout-0.5
 ```
-✔️ Escribe *commits pequeños y descriptivos*.
-✔️ Documenta resultados en `experiments/exp1-notas.md`.
-✔️ Usa `requirements.txt` o `environment.yml` para dependencias.
-✔️ Automatiza con `Makefile` o scripts (`run_train.sh`).
-✔️ Colabora con **Pull Requests** para revisar cambios antes de mezclar.
+✔️ Escribe *commits pequeños y descriptivos*.\n
+✔️ Documenta resultados en `experiments/exp1-notas.md`.\n
+✔️ Usa `requirements.txt` o `environment.yml` para dependencias.\n
+✔️ Automatiza con `Makefile` o scripts (`run_train.sh`).\n
+✔️ Colabora con **Pull Requests** para revisar cambios antes de mezclar.\n
 ---
 ##📚 Recursos recomendados
 - [Cheat Sheet de Git (GitHub, en español)](https://training.github.com/downloads/es_ES/github-git-cheat-sheet.pdf)
