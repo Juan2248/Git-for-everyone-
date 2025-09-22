@@ -5,4 +5,16 @@
 - juan2248
 - Oscar
 - Camilo
--Monica
+
+-Monica Cristina Peña Rincon
+
+- Alejandra Ortiz
+- José David Garavito Barragan 
+- Jose Candamil
+- Andres Conde Alvarez
+- juandavid
+- Juan_Pablo
+- Sergio
+- Angelica
+- Juan Carlos
+
