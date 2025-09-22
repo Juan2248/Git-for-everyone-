@@ -5,19 +5,12 @@
 - juan2248
 - Oscar
 - Camilo
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 - José David Garavito Barragan 
+- Jose Candamil
+- Andres Conde Alvarez
+- juandavid
+- Juan_Pablo
+- Sergio
+- Angelica
+- Juan Carlos
+
