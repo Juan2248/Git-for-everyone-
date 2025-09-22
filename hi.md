@@ -5,6 +5,7 @@
 - juan2248
 - Oscar
 - Camilo
+- Jose Candamil
 - Andres Conde Alvarez
 - juandavid
 - Juan_Pablo
