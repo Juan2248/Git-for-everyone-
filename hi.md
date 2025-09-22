@@ -5,6 +5,7 @@
 - juan2248
 - Oscar
 - Camilo
+- ValeriaS
 - catalina
 - Alejandra Ortiz
 - José David Garavito Barragan 
