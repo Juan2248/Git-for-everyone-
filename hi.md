@@ -5,6 +5,7 @@
 - juan2248
 - Oscar
 - Camilo
+- catalina
 - Alejandra Ortiz
 - José David Garavito Barragan 
 - Jose Candamil
