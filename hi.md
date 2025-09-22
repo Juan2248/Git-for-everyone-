@@ -5,6 +5,7 @@
 - juan2248
 - Oscar
 - Camilo
+- José David Garavito Barragan 
 - Jose Candamil
 - Andres Conde Alvarez
 - juandavid
@@ -12,3 +13,4 @@
 - Sergio
 - Angelica
 - Juan Carlos
+
