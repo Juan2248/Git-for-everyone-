@@ -5,4 +5,9 @@
 - juan2248
 - Oscar
 - Camilo
--juandavid
+- juandavid
+- Juan_Pablo
+- Sergio
+- Angelica
+- Juan Carlos
+
