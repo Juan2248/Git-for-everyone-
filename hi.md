@@ -5,9 +5,9 @@
 - juan2248
 - Oscar
 - Camilo
-
 -Monica Cristina Peña Rincon
-
+- ValeriaS
+- catalina
 - Alejandra Ortiz
 - José David Garavito Barragan 
 - Jose Candamil
