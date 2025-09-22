@@ -5,6 +5,8 @@
 - juan2248
 - Oscar
 - Camilo
+
+- Juan Gamboa
 -Monica Cristina Peña Rincon
 - ValeriaS
 - catalina
@@ -17,4 +19,3 @@
 - Sergio
 - Angelica
 - Juan Carlos
-
