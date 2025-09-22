@@ -6,3 +6,9 @@
 - Oscar
 - Camilo
 - Jose Candamil
+- Andres Conde Alvarez
+- juandavid
+- Juan_Pablo
+- Sergio
+- Angelica
+- Juan Carlos
