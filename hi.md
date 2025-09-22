@@ -6,3 +6,5 @@
 - Oscar
 - Camilo
 - Sergio
+- Angelica
+- Juan Carlos
