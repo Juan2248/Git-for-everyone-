@@ -5,6 +5,7 @@
 - juan2248
 - Oscar
 - Camilo
+- Alejandra Ortiz
 - José David Garavito Barragan 
 - Jose Candamil
 - Andres Conde Alvarez
@@ -13,4 +14,3 @@
 - Sergio
 - Angelica
 - Juan Carlos
-
