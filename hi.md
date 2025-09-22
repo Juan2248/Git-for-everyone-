@@ -5,6 +5,7 @@
 - juan2248
 - Oscar
 - Camilo
+- juandavid
 - Juan_Pablo
 - Sergio
 - Angelica
